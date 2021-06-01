@@ -4,7 +4,7 @@
 	background-color : black;
 	padding : 15px;
 	font-size : 20px;
-	font-family : san-serif;
+	font-family : Lucida Calligraphy, Lucida Handwriting, WhisperWrite, Brush Script MT;
 	font-weight : 400;
 	color : white;
 }
@@ -18,11 +18,16 @@ h2{
 	color : white;
 	
 }
+h5{
+	color : white;
+	
+}
 .centered {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  font-family : Lucida Calligraphy, Lucida Handwriting, WhisperWrite, Brush Script MT;
 }
 .gridimg {
   display: flex;
